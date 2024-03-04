@@ -1,6 +1,6 @@
 ### 👋 Hi, I am @farisahmdadl!
 
-### 🎖️ I have a great interest in tech, data, and UI/UX.
+### 🎖️ I have a great interest in Tech, Data, and UI/UX.
 
 ### 📫 Please feel free to contact me: f.ahmadadli10@gmail.com.
 
