@@ -6,6 +6,6 @@
 My Skill:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,angular,java,golang,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,angular,java,py,r,scala,golang,php,cs,git,grafana,ps,ai,pr" />
   </a>
 </p>
