@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 📫 How to reach me: f.ahmadadli10@gmail.com
-
 My Skill:
 <p align="center">
   <a href="https://skillicons.dev">
