@@ -1,6 +1,8 @@
-### Hi, I am @farisahmdadl
+### 👋 Hi, I am @farisahmdadl!
 
-### 📫 How to reach me: f.ahmadadli10@gmail.com
+### 🎖️ I have a great interest to discuss about tech, data, and UI/UX.
+
+### 📫 Please feel free to contact me: f.ahmadadli10@gmail.com.
 
 ### ⚙️ Skills:
 <p align="center">
