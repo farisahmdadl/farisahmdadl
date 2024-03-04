@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Petrolink
-- 📫 How to reach me: f.ahmadadli10@gmail.com\
+- 📫 How to reach me: f.ahmadadli10@gmail.com
 
 My Skill:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,angular,java,py,r,scala,golang,php,cs,git,grafana,ps,ai,pr" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,angular,java,golang,php,cs,py" />
   </a>
 </p>
