@@ -10,5 +10,5 @@ My Skill:
 </p>
 
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="kafka" title="kafka"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="kafka" title="kafka"/></code>
 </div>
