@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am @farisahmdadl
 
 📫 How to reach me: f.ahmadadli10@gmail.com
 
