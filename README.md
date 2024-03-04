@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Petrolink
-- 📫 How to reach me: f.ahmadadli10@gmail.com
+- 📫 How to reach me: f.ahmadadli10@gmail.com\
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+My Skill:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,react,angular,java,golang,php" />
+  </a>
+</p>
