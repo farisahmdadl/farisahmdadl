@@ -1,4 +1,4 @@
-### Hi, I am @farisahmdadl
+### Hi, I am @farisahmdadl (Tech, Data, and UI/UX Enthusiast)
 
 📫 How to reach me: f.ahmadadli10@gmail.com
 
